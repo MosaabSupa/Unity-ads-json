@@ -5,14 +5,12 @@
  "BannerID"        :  "ca-app-pub-3940256099942544/6300978111" ,
  "InterstitialID"  :  "ca-app-pub-3940256099942544/8691691433" ,
  "RewardID"        :  "ca-app-pub-3940256099942544/1033173712" ,
- "NativeId"        : "ca-app-pub-3940256099942544/2247696110"
 },
 {
 //FAN
  "BannerID"        :  "IMG_16_9_LINK#2109954819150266_2109957119150036F" ,
  "InterstitialID"  :  "IMG_16_9_LINK#2109954819150266_2109960142483067 " ,
  "RewardID"        :  "VID_HD_16_9_15S_APP_INSTALL#2109954819150266_2109961085816306" ,
- "NativeId"        :  "" 
 },
 //Unity
  "GameID"           :  "4957393" ,
