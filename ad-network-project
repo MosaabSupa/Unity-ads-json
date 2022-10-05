@@ -17,10 +17,5 @@
  "UnityInterstitialID"  :  "Interstitial_Android" ,
  "UnityRewardID"        :  "Rewarded_Android" 
 
-},
-//IronSource
- "appKey" : "1693c50cd",
- "banner" : "Banner",
- "interstitial" : "Interstitial"
-} 
+}
 }
