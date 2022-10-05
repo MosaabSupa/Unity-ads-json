@@ -1,0 +1,7 @@
+
+{
+//Unity
+ "GameID"           :  4957393,
+ "UnityInterstitialID"  :  "Interstitial_Android" ,
+ "UnityRewardID"        :  "Rewarded_Android" 
+}
