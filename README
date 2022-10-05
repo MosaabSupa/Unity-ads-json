@@ -1,0 +1,6 @@
+->For the Reader to work properly the json file must be in the correct format
+no additional spaces, etc..
+
+-> the link url must be without .json
+
+must be like this: https://raw.githubusercontent.com/MosaabSupa/Unity-ads-json/main/ad-network-project-unity
