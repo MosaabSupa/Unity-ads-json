@@ -9,21 +9,18 @@
 },
 {
 //FAN
- "AppID"           :  "" ,
- "BannerID"        :  "" ,
- "InterstitialID"  :  "" ,
- "RewardID"        :  "" ,
+ "BannerID"        :  "IMG_16_9_LINK#2109954819150266_2109957119150036F" ,
+ "InterstitialID"  :  "IMG_16_9_LINK#2109954819150266_2109960142483067 " ,
+ "RewardID"        :  "VID_HD_16_9_15S_APP_INSTALL#2109954819150266_2109961085816306" ,
  "NativeId"        :  "" 
 },
 //Unity
- "AppID"           :  "" ,
- "BannerID"        :  "" ,
- "InterstitialID"  :  "" ,
- "RewardID"        :  "" ,
- "NativeId"        :  "" 
+ "GameID"           :  "4957393" ,
+ "InterstitialID"  :  "Interstitial_Android" ,
+ "RewardID"        :  "Rewarded_Android" 
+
 },
 //IronSource
- "AppID"           :  "" ,
  "BannerID"        :  "" ,
  "InterstitialID"  :  "" ,
  "RewardID"        :  "" ,
