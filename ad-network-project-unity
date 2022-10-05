@@ -1,6 +1,6 @@
 {
- "GameAndroidID"           :  "4957423" ,
- "GameIdIOS"               :  "4957422" ,
+ "GameIDAndroid"           :  "4957423" ,
+ "GameIDIos"               :  "4957422" ,
  "UnityInterstitialID"     :  "Interstitial_Android" ,
  "UnityIOSInterstitialID"  :  "Interstitial_iOS" ,
  "UnityRewardID"           :  "Rewarded_Android" ,
