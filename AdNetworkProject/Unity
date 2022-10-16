@@ -3,8 +3,8 @@
  "GameIDIos"               :  "4957422" ,
  "UnityBannerAndroidID"    :  "Banner_Android" ,
  "UnityBannerIOSID"        :  "Banner_iOS" ,
- "UnityInterstitialID"     :  "" ,
- "UnityIOSInterstitialID"  :  "" ,
- "UnityRewardID"           :  "" ,
- "UnityIOSRewardID"        :  "" 
+ "UnityInterstitialID"     :  "Interstitial_Android" ,
+ "UnityIOSInterstitialID"  :  "Interstitial_iOS" ,
+ "UnityRewardID"           :  "Rewarded_Android" ,
+ "UnityIOSRewardID"        :  "Rewarded_iOS" 
 }
