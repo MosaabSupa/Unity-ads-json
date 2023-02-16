@@ -1,7 +1,7 @@
 {
- "AppID"           :  "" ,
- "BannerID"        :  "" ,
- "InterstitialID"  :  "" ,
- "RewardID"        :  ""
+ "AppID"           :  "ca-app-pub-5670150935829846~8598914821" ,
+ "BannerID"        :  "ca-app-pub-5670150935829846/5405226535" ,
+ "InterstitialID"  :  "ca-app-pub-5670150935829846/1310633502" ,
+ "RewardID"        :  "ca-app-pub-5670150935829846/8961328163"
 }
 
