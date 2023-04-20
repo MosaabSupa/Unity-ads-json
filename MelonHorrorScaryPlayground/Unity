@@ -1,1 +1,10 @@
-
+{
+ "GameIDAndroid"           :  "" ,
+ "GameIDIos"               :  "" ,
+ "UnityBannerAndroidID"    :  "" ,
+ "UnityBannerIOSID"        :  "" ,
+ "UnityInterstitialID"     :  "" ,
+ "UnityIOSInterstitialID"  :  "" ,
+ "UnityRewardID"           :  "" ,
+ "UnityIOSRewardID"        :  "" 
+}
