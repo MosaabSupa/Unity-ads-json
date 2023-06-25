@@ -1,6 +1,6 @@
 {
- "GameIDAndroid"           :  "5154070" ,
- "GameIDIos"               :  "5154071" ,
+ "GameIDAndroid"           :  "" ,
+ "GameIDIos"               :  "" ,
  "UnityBannerAndroidID"    :  "Banner_Android" ,
  "UnityBannerIOSID"        :  "Banner_iOS" ,
  "UnityInterstitialID"     :  "Interstitial_Android" ,
